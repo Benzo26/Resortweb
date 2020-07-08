@@ -32,7 +32,7 @@ ul{
   bottom: 182px;
   right: 20px;
   font-size: 33px;
-  text-decoration-color: yellow;
+
 }
 
 /* centered right */
@@ -56,5 +56,13 @@ ul{
   position: absolute;
   bottom: 82px;
   right:20px;
+  font-size: 33px;
+}
+
+/* upper right */
+.upper-right{
+  position: absolute;
+  bottom: 232px;
+  right: 20px;
   font-size: 33px;
 }
