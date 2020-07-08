@@ -1,0 +1,16 @@
+body{
+  background-color: #99d6ff;
+}
+h1{
+  color: #ffffe6;
+  background-color: #006666;
+  text-align: center;
+}
+ul{
+  background-color: #33ff33;
+}
+.mission{
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bolder;
+}
