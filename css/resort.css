@@ -3,11 +3,7 @@ body{
 }
 ul{
   background-color: #33ff33;
-}
-.mission{
-  font-style: italic;
-  font-size: 30px;
-  font-weight: bolder;
+
 }
 /* container holding the image and the text */
 .container{
