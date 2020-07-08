@@ -1,11 +1,6 @@
 body{
   background-color: #99d6ff;
 }
-h1{
-  color: #ffffe6;
-  background-color: #006666;
-  text-align: center;
-}
 ul{
   background-color: #33ff33;
 }
@@ -16,7 +11,7 @@ ul{
 }
 /* container holding the image and the text */
 .container{
-  position: inherit;
+  position: relative;
   text-align: center;
   color: white;
 }
@@ -29,4 +24,37 @@ ul{
   font-size: 53px;
   font-style: italic;
   font-weight: lighter;
+}
+
+/* bottom right */
+.bottom-right{
+  position:absolute;
+  bottom: 182px;
+  right: 20px;
+  font-size: 33px;
+  text-decoration-color: yellow;
+}
+
+/* centered right */
+.centered-right{
+  position:absolute;
+  bottom: 132px;
+  right: 20px;
+  font-size: 33px;
+}
+
+/* top right*/
+.top-right{
+  position: absolute;
+  bottom: 30px;
+  right: 20px;
+  font-size: 33px;
+}
+
+/* lower right*/
+.lower-right{
+  position: absolute;
+  bottom: 82px;
+  right:20px;
+  font-size: 33px;
 }
