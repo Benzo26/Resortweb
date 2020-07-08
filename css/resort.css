@@ -14,3 +14,19 @@ ul{
   font-size: 30px;
   font-weight: bolder;
 }
+/* container holding the image and the text */
+.container{
+  position: inherit;
+  text-align: center;
+  color: white;
+}
+/* centered text */
+.centered{
+  position: absolute;
+  top: 27%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  font-size: 53px;
+  font-style: italic;
+  font-weight: lighter;
+}
