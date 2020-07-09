@@ -1,0 +1,26 @@
+body{
+  background-color: #B2B2A6;
+  background-image: linear-gradient(black, grey, white); /*standard syntax (must be last) */
+
+}
+h1{
+  text-align: center;
+  color: #3E3D05;
+  font-weight: lighter;
+
+}
+.phone{
+  color: #3D905E;
+  text-align: justify;
+  background-color: #DBE4E9;
+}
+.portfolio{
+  color: #276589;
+  text-align: justify;
+  background-color: #DBE4E9;
+}
+.important{
+  color: red;
+  font-size: 18px;
+  font-style: italic;
+}
